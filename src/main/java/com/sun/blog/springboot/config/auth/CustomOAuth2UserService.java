@@ -1,5 +1,6 @@
 package com.sun.blog.springboot.config.auth;
 
+import com.sun.blog.springboot.config.auth.dto.SessionUser;
 import com.sun.blog.springboot.domain.user.User;
 import com.sun.blog.springboot.domain.user.UserRepository;
 import lombok.RequiredArgsConstructor;
